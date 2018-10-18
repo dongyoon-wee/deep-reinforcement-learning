@@ -98,7 +98,7 @@ For future work, double DQN, a dueling DQN, and/or prioritized experience replay
  
 ## References
 
-*[DQN on Udacity Deep RL ND](https://github.com/udacity/deep-reinforcement-learning/dqn)
+*[DQN implementation on Udacity Deep RL ND](https://github.com/udacity/deep-reinforcement-learning/dqn)
 
 *[Navigation example on Udacity Deep RL ND](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation)
 
