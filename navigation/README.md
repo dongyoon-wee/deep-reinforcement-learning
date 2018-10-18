@@ -96,4 +96,10 @@ The agent success to solve the task in 412 episodes. The below figure is the ave
 
 For future work, double DQN, a dueling DQN, and/or prioritized experience replay will be implemented and compared performance with current agent.
  
+## References
 
+*[DQN on Udacity Deep RL ND](https://github.com/udacity/deep-reinforcement-learning/dqn)
+
+*[Navigation example on Udacity Deep RL ND](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation)
+
+*[Welcome to Deep Reinforcement Learning Part 1 : DQN](https://towardsdatascience.com/welcome-to-deep-reinforcement-learning-part-1-dqn-c3cab4d41b6b)

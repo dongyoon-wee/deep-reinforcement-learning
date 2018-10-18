@@ -2,184 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="201bcdec-70b3-48fd-9baf-777360af732f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/navigation/.ipynb_checkpoints/Report-checkpoint.ipynb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Frameworks/MonoBleedingEdge/MonoEmbedRuntime/osx/libMonoPosixHelper.dylib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Frameworks/MonoBleedingEdge/MonoEmbedRuntime/osx/libmonobdwgc-2.0.dylib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Info.plist" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MacOS/mac_banana" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Mono/etc/mono/1.0/machine.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Mono/etc/mono/2.0/Browsers/Compat.browser" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Mono/etc/mono/2.0/machine.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Mono/etc/mono/2.0/settings.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Mono/etc/mono/2.0/web.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Mono/etc/mono/browscap.ini" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Mono/etc/mono/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Mono/etc/mono/mconfig/config.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/2.0/machine.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/2.0/settings.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/2.0/web.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/4.0/machine.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/4.0/settings.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/4.0/web.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/4.5/machine.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/4.5/settings.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/4.5/web.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/browscap.ini" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/MonoBleedingEdge/etc/mono/mconfig/config.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Plugins/libgrpc_csharp_ext.x64.bundle" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Ageia.tif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/GI/level0/d8/d879d8f84dad702b137146d9028aad2c.caw" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/GI/level0/d8/d879d8f84dad702b137146d9028aad2c.ecm" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/GI/level0/d8/d879d8f84dad702b137146d9028aad2c.iws.sse" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/GI/level0/d8/d879d8f84dad702b137146d9028aad2c.rgb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/GI/level0/d8/d879d8f84dad702b137146d9028aad2c.rsc.sse" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/GI/level0/d8/d879d8f84dad702b137146d9028aad2c.vis" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/Google.Protobuf.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/Grpc.Core.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/Mono.Posix.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/Mono.Security.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/System.Configuration.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/System.Core.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/System.Interactive.Async.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/System.Security.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/System.Xml.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/System.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.AIModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ARModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.AccessibilityModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.AnimationModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.AssetBundleModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.AudioModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ClothModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ClusterInputModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ClusterRendererModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.CoreModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.CrashReportingModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.DirectorModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.GameCenterModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.GridModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.IMGUIModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ImageConversionModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.InputModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.JSONSerializeModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.Networking.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ParticleSystemModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ParticlesLegacyModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.PerformanceReportingModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.Physics2DModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.PhysicsModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.ScreenCaptureModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.SharedInternalsModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.SpatialTracking.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.SpriteMaskModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.SpriteShapeModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.StandardEvents.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.StyleSheetsModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.TerrainModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.TerrainPhysicsModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.TextRenderingModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.TilemapModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.Timeline.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UIElementsModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UIModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UNETModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UnityAnalyticsModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UnityConnectModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestAudioModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestTextureModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.UnityWebRequestWWWModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.VRModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.VehiclesModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.VideoModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.WebModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.WindModule.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/UnityEngine.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Managed/mscorlib.dll" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/Resources/unity_builtin_extra" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/boot.config" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/globalgamemanagers" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/globalgamemanagers.assets" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/level0" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/sharedassets0.assets" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Data/sharedassets0.assets.resS" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/DefaultPreferences.plist" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/KeyConfig.nib/classes.nib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/KeyConfig.nib/info.nib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/KeyConfig.nib/keyedobjects.nib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/MainMenu.nib/classes.nib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/MainMenu.nib/info.nib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/MainMenu.nib/keyedobjects.nib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/Mono.tif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/ScreenSelector.nib/classes.nib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/ScreenSelector.nib/designable.nib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/ScreenSelector.nib/info.nib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/ScreenSelector.nib/keyedobjects.nib" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/UnityPlayerIcon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/navigation/Banana.app/Contents/Resources/unity default resources" afterPath="" />
       <change beforePath="$PROJECT_DIR$/navigation/README.md" afterPath="$PROJECT_DIR$/navigation/README.md" />
-      <change beforePath="$PROJECT_DIR$/navigation/VisualBanana.app.zip" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -194,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/navigation/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="222">
-                <caret line="88" column="17" lean-forward="false" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+              <first_editor relative-caret-position="389">
+                <caret line="104" column="148" lean-forward="false" selection-start-line="104" selection-start-column="148" selection-end-line="104" selection-end-column="148" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -206,8 +31,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            <state relative-caret-position="15">
+              <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -241,7 +66,7 @@
       <file leaf-file-name="dqn_agent.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/navigation/dqn_agent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1090">
+            <state relative-caret-position="1845">
               <caret line="123" column="28" lean-forward="false" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -275,7 +100,7 @@
       <file leaf-file-name="infer_agent.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/navigation/infer_agent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="-227">
               <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
@@ -625,16 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/navigation/dqn_agent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1090">
-          <caret line="123" column="28" lean-forward="false" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/navigation/opt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -647,16 +462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/navigation/infer_agent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
@@ -682,11 +487,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/navigation/infer_agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-227">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigation/dqn_agent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="28" lean-forward="false" selection-start-line="123" selection-start-column="28" selection-end-line="123" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/navigation/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="222">
-            <caret line="88" column="17" lean-forward="false" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="17" />
+          <first_editor relative-caret-position="389">
+            <caret line="104" column="148" lean-forward="false" selection-start-line="104" selection-start-column="148" selection-end-line="104" selection-end-column="148" />
             <folding />
           </first_editor>
           <second_editor />
@@ -695,8 +520,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        <state relative-caret-position="15">
+          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
           <folding />
         </state>
       </provider>
