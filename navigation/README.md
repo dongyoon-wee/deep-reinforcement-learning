@@ -4,13 +4,13 @@
 
 # Project 1: Navigation
 
-### Project details
+## Project details
 
 This project trains an agent to navigate (and collect bananas!) in a large, square world.  
 
 ![Trained Agent][image1]
 
-#### Reward
+### Reward
 
 This project has two types of rewards.
 - **`+1`** for collecting a yellow banana
@@ -18,11 +18,11 @@ This project has two types of rewards.
 
 Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas. 
 
-#### States
+### States
 
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around agent's forward direction. 
 
-#### Actions
+### Actions
 
 Four discrete actions are available, corresponding to:
 - **`0`** - move forward.
@@ -30,17 +30,17 @@ Four discrete actions are available, corresponding to:
 - **`2`** - turn left.
 - **`3`** - turn right.
 
-#### Success condition
+### Success condition
 The task is episodic, and is considered if agent get an average score of +13 over 100 consecutive episodes.
 
-### Getting Started
+## Getting Started
 
-#### Install dependencies
+### Install dependencies
 `cd ..`
 
 `pip install -r requirements.txt`
 
-#### Setting environment
+### Setting environment
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
@@ -54,11 +54,11 @@ The task is episodic, and is considered if agent get an average score of +13 ove
 
 2. Place the file in the DRLND GitHub repository, in the current folder, and unzip (or decompress) the file. 
 
-### Instructions
+## Instructions
 
 Follow the instructions for each purpose.
 
-#### Training an agent
+### Training an agent
 
 `python train_agent [args]`
 
@@ -72,7 +72,7 @@ The followings are args to be used for training.
 * --seed [int] : random seed, default=0
 * --model_path [str] : model checkpoint path, default='checkpoint.pth'
 
-#### Infer an agent
+### Infer an agent
 
 `python infer_agent [args]`
 
@@ -82,17 +82,17 @@ The followings are args to be used for inference.
 * --seed [int] : random seed, default=0
 * --model_path [str] : model checkpoint path, default='checkpoint.pth'
 
-#### Report result
+### Report result
 
 Follow the instructions in `Report.ipynb` to check result in the report. 
 
-#### Result summary
+## Result summary
 
 The agent success to solve the task in 412 episodes. The below figure is the average scores plot along episodes.
 
 ![title](figures/plot_avg_scores.png)
 
-#### Future work
+## Future work
 
 For future work, double DQN, a dueling DQN, and/or prioritized experience replay will be implemented and compared performance with current agent.
  
