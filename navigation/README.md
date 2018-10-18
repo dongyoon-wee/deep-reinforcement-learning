@@ -98,8 +98,11 @@ For future work, double DQN, a dueling DQN, and/or prioritized experience replay
  
 ## References
 
+*[Volodymyr Mnih et al, Human-level control through deep reinforcement
+learning](http://files.davidqiu.com//research/nature14236.pdf)
+
 *[DQN implementation on Udacity Deep RL ND](https://github.com/udacity/deep-reinforcement-learning/dqn)
 
 *[Navigation example on Udacity Deep RL ND](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation)
 
-*[Welcome to Deep Reinforcement Learning Part 1 : DQN](https://towardsdatascience.com/welcome-to-deep-reinforcement-learning-part-1-dqn-c3cab4d41b6b)
+*[Takuma Seno, Welcome to Deep Reinforcement Learning Part 1 : DQN](https://towardsdatascience.com/welcome-to-deep-reinforcement-learning-part-1-dqn-c3cab4d41b6b)
