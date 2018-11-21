@@ -10,7 +10,7 @@ from opt import opt
 from utils import get_settings
 
 
-def train_agent(env, agent, brain_name, model_path='checkpoint_{0}.pth', n_episodes=2000, max_t=1000, success_score=30):
+def train_agent(env, agent, brain_name, model_path='{0}_{1}.pth', n_episodes=2000, max_t=1000, success_score=30):
 
     scores = []  # list containing scores from each episode
     scores_window = deque(maxlen=100)  # last 100 scores
@@ -19,6 +19,7 @@ def train_agent(env, agent, brain_name, model_path='checkpoint_{0}.pth', n_episo
         env_info = env.reset(train_mode=True)[brain_name]  # reset the environment
         state = env_info.vector_observations[0]  # get the current state
         score = 0
+        num_iters = 0
         while True:
         #for _ in range(max_t):
             action = agent.act(state)
@@ -32,18 +33,21 @@ def train_agent(env, agent, brain_name, model_path='checkpoint_{0}.pth', n_episo
             agent.step(state, action, reward, next_state, done)
             state = next_state
             score += reward
+            num_iters += 1
             if done:
                 break
         scores_window.append(score)  # save most recent score
         scores.append(score)  # save most recent score
-        print('\rEpisode {}\tAverage Score: {:.2f}\tAverage Time: {}'.format(i_episode, np.mean(scores_window), time()-start_time), end="")
+        print('\rEpisode {0}\tAverage Score: {1:.2f}\tAverage Time: {2:.2f}\tNum Iters: {3}=='.format(i_episode, np.mean(scores_window), time()-start_time, num_iters), end="")
         if i_episode % 100 == 0:
             print('\rEpisode {}\tAverage Score: {:.2f}\tAverage Time: {}'.format(i_episode, np.mean(scores_window), time()-start_time), end="\r")
-            torch.save(agent.actor_local.state_dict(), model_path.format(i_episode))
+            torch.save(agent.actor_local.state_dict(), model_path.format('actor', i_episode))
+            torch.save(agent.critic_local.state_dict(), model_path.format('critic', i_episode))
         if np.mean(scores_window) >= success_score:
             print('\nEnvironment solved in {:d} episodes!\tAverage Score: {:.2f}'.format(i_episode - 100,
                                                                                          np.mean(scores_window)))
-            torch.save(agent.actor_local.state_dict(), model_path.format('success'))
+            torch.save(agent.actor_local.state_dict(), model_path.format('actor', 'success'))
+            torch.save(agent.critic_local.state_dict(), model_path.format('critic', 'success'))
             break
     return scores
 

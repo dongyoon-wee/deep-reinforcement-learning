@@ -82,6 +82,16 @@ class Agent():
     def reset(self):
         self.noise.reset()
 
+    def load_actor(self, model_path):
+        checkpoint = torch.load(model_path)
+        self.actor_local.load_state_dict(checkpoint)
+        self.actor_target.load_state_dict(checkpoint)
+
+    def load_critic(self, model_path):
+        checkpoint = torch.load(model_path)
+        self.critic_local.load_state_dict(checkpoint)
+        self.critic_target.load_state_dict(checkpoint)
+
     def learn(self, experiences, gamma):
         """Update policy and value parameters using given batch of experience tuples.
         Q_targets = r + γ * critic_target(next_state, actor_target(next_state))
