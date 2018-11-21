@@ -12,3 +12,8 @@ continuous_control/Reacher.app*
 
 # ipynb files
 *.ipynb_checkpoints/
+
+# Output files
+*models/
+*outputs/
+*.pth

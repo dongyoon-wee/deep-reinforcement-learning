@@ -61,10 +61,7 @@ if __name__ == '__main__':
     env_info = env.reset(train_mode=True)[brain_name]
     state_size, action_size = get_settings(env_info, brain)
 
-    list_fc_dims_actor = map(int, opt.list_fc_dims_actor.split(','))
-    list_fc_dims_critic = map(int, opt.list_fc_dims_critic.split(','))
-
     agent = Agent(state_size, action_size, opt.seed, opt.buffer_size, opt.batch_size, opt.gamma, opt.tau, opt.lr_actor,
-                  opt.lr_critic, opt.weight_decay, list_fc_dims_actor, list_fc_dims_critic)
+                  opt.lr_critic, opt.weight_decay)
     scores = train_agent(env, agent, brain_name, opt.n_episodes, opt.eps_start, opt.eps_end, opt.eps_decay)
     env.close()
