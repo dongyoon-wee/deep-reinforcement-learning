@@ -5,4 +5,10 @@
 *egg-info
 
 # Files downloaded
-continuous_control/Reacher.app
+continuous_control/Reacher.app*
+
+# Log files
+*.log
+
+# ipynb files
+*.ipynb_checkpoints/
