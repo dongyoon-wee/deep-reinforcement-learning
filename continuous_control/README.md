@@ -59,8 +59,18 @@ The task is episodic, and in order to solve the environment,  an agent must get 
 
 #### Train an agent
 
+`python train_agent.py --[OPTION]`
+
+[OPTION] : Reference on opt.py
+
 #### Infer an agent
 
-Follow the instructions in `Continuous_Control.ipynb` to get started with training your own agent!  
+`python infer_agent.py --[OPTION]`
+
+[OPTION] : Reference on opt.py
+
+#### Read report
+
+Follow the instructions in `Report.ipynb`.  
 
 

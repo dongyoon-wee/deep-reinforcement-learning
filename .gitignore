@@ -14,6 +14,6 @@ continuous_control/Reacher.app*
 *.ipynb_checkpoints/
 
 # Output files
-*models/
-*outputs/
+#continuous_control/models/
+#continuous_control/outputs/
 *.pth

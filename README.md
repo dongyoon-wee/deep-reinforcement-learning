@@ -3,7 +3,7 @@ Repository for Deep reinforcement learning
 
 ### Getting started
 #### Install dependencies
-`pip install -r requirements.txt`
+`python setup.py install`
 
 ### Navigation
 Follow the instructions on [navigation's readme](navigation/README.md)
