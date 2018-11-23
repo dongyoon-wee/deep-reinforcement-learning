@@ -73,4 +73,11 @@ The task is episodic, and in order to solve the environment,  an agent must get 
 
 Follow the instructions in `Report.ipynb`.  
 
+### References
 
+[1] Timothy P. Lillicrap. CONTINUOUS CONTROL WITH DEEP REINFORCEMENT
+LEARNING. ICLR 2016
+
+[2] David Silver. Deterministic Policy Gradient Algorithms. 2014.
+
+[3] Volodymyr Mnih. Playing Atari with Deep Reinforcement Learning. 2015.
