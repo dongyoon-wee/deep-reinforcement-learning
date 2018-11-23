@@ -81,3 +81,5 @@ LEARNING. ICLR 2016
 [2] David Silver. Deterministic Policy Gradient Algorithms. 2014.
 
 [3] Volodymyr Mnih. Playing Atari with Deep Reinforcement Learning. 2015.
+
+[4] [Udacity deep-reinforcement-learning repository](https://github.com/udacity/deep-reinforcement-learning)
