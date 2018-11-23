@@ -16,4 +16,4 @@ continuous_control/Reacher.app*
 # Output files
 #continuous_control/models/
 #continuous_control/outputs/
-*.pth
+#*.pth
