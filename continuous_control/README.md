@@ -1,7 +1,7 @@
 [//]: # (Image References)
 
 [image1]: https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif "Trained Agent"
-[image2]: https://user-images.githubusercontent.com/10624937/43851646-d899bf20-9b00-11e8-858c-29b5c2c94ccc.png "Crawler"
+[image2]: outputs/scores_318.png "Crawler"
 
 
 # Project 2: Continuous Control
@@ -72,6 +72,16 @@ The task is episodic, and in order to solve the environment,  an agent must get 
 #### Read report
 
 Follow the instructions in `Report.ipynb`.  
+
+### Result summary
+
+The agent success to solve the task in 318 episodes. The below plot shows the scores which the agent earns as the number of epiosdes increase.
+
+![Score_plot][image2]
+
+### Future works
+
+For future works, A3C, A2C will be implemented and compare performances with current DDPG agent. Besides, different environment with multi-agent will be next step.
 
 ### References
 
