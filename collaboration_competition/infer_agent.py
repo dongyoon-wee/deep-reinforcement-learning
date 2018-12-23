@@ -9,7 +9,7 @@ from utils import get_settings
 from opt import opt
 
 
-def infer_agent(env, agent1, agent2, brain_name, n_episodes=2000):
+def infer_agent(env, agent, brain_name, n_episodes=2000):
     """DDPG.
 
     Params
@@ -21,11 +21,11 @@ def infer_agent(env, agent1, agent2, brain_name, n_episodes=2000):
     scores_window = deque(maxlen=100)  # last 100 scores
     for i_episode in range(1, n_episodes + 1):
         env_info = env.reset(train_mode=False)[brain_name]  # reset the environment
-        states = env_info.vector_observations[0]  # get the current state
+        states = env_info.vector_observations  # get the current state
         scores = [0., 0.]
         while True:
-            action1 = agent1.act(states[0])
-            action2 = agent2.act(states[1])
+            action1 = agent.act(states[0])
+            action2 = agent.act(states[1])
             action = np.concatenate([action1, action2])
             env_info = env.step(action)[brain_name]
             next_states = env_info.vector_observations  # get the next state
