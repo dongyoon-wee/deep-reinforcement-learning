@@ -51,7 +51,7 @@ def train_agent(env, agent1, agent2, brain_name, model_path='models/{0}_{1}.pth'
         list_scores.append(score)
         print('\rEpisode {0}\tAverage Score: {1:.2f}\tAverage Time: {2:.2f}\tNum Iters: {3}=='.format(i_episode, np.mean(scores_window), time()-start_time, num_iters), end="\r")
 
-        if i_episode % 100 == 0:
+        if i_episode % 500 == 0:
             print('\rEpisode {}\tAverage Score: {:.2f}\tAverage Time: {}'.format(i_episode, np.mean(scores_window), time()-start_time), end="\r")
             torch.save(agent1.actor_local.state_dict(), model_path.format('actor1', i_episode))
             torch.save(agent1.critic_local.state_dict(), model_path.format('critic1', i_episode))

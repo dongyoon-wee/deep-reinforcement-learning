@@ -6,6 +6,7 @@
 
 # Files downloaded
 continuous_control/Reacher.app*
+collaboration_competition/Tennis.app*
 
 # Log files
 *.log

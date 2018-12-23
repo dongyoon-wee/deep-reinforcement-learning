@@ -36,19 +36,18 @@ class Actor(nn.Module):
         self.fc2.weight.data.uniform_(*hidden_init(self.fc2))
         self.fc3.weight.data.uniform_(-3e-3, 3e-3)
 
-    def forward_bn(self, x):
+    def forward_bn(self, x, fn_bn):
 
         if len(x.size()) < 2:
             x = x.unsqueeze(0)
-        return self.bn1(x).squeeze()
+        return fn_bn(x).squeeze()
 
     def forward(self, state):
         """Build an actor (policy) network that maps states -> actions."""
         x = F.relu(self.fc1(state))
-        """
-        x = forward_bn(x)
-        """
+        x = self.forward_bn(x, self.bn1)
         x = F.relu(self.fc2(x))
+        x = self.forward_bn(x, self.bn2)
         return F.tanh(self.fc3(x))
 
 
@@ -91,10 +90,10 @@ class Critic(nn.Module):
         """Build a critic (value) network that maps (state, action) pairs -> Q-values."""
         if len(state.shape) < 2:
             state = np.expand_dims(state, axis=0)
-        #xs = self.bn1_state(F.relu(self.fcs1(state)))
-        #action = self.bn1_action(action)
-        xs = F.relu(self.fcs1(state))
-        x = torch.cat((xs, action), dim=1)
-        #x = self.bn1(torch.cat((xs, action), dim=1)).squeeze()
+        xs = self.bn1_state(F.relu(self.fcs1(state)))
+        action = self.bn1_action(action)
+        #xs = F.relu(self.fcs1(state))
+        #x = torch.cat((xs, action), dim=1)
+        x = self.bn1(torch.cat((xs, action), dim=1)).squeeze()
         x = F.relu(self.fc2(x))
         return self.fc3(x)

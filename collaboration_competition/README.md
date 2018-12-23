@@ -63,10 +63,6 @@ Follow the instructions in `Report_tennis.ipynb` to get started with training yo
 
 [OPTION] : Reference on opt.py
 
-### Result summary
-The agent couldn't success to solve the task in 10,0000 episodes. The below plot shows the scores which the agent earns as the number of epiosdes increase.
-![score_plot](outputs/exp_3/scores_10000.png)
-
 ### Future works
 Current agent fail to solve the task, thus more hyper parameter tuning is necessary. Besides Actor-Critic algorithm such as A3C, A2C is another approach in future. 
 
