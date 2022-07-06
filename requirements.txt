@@ -17,7 +17,7 @@ future==0.16.0
 gast==0.2.0
 grpcio==1.11.0
 -e git+https://github.com/openai/gym.git@400f3b9810b065d8f523f9efbea033446cf720a4#egg=gym
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.7
 ipykernel==4.9.0
 ipython==6.5.0
